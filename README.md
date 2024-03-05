@@ -2,7 +2,7 @@
 
 *Direct links in the PDFs to other files do not work.
 
-Just a set of notes of everything being taught in my current bachelor.
+Just a set of notes of everything being taught in my current bachelor. It's also gonna be used for a dataset in one of my ML projects
 
 ## Semester 1
 ### IFB102
