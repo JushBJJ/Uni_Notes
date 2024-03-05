@@ -2,6 +2,8 @@
 
 *Direct links in the PDFs to other files do not work.
 
+Just a set of notes of everything being taught in my current bachelor.
+
 ## Semester 1
 ### IFB102
 - [Week 2](./IFB102/Week%202/Week%202.pdf)
