@@ -11,3 +11,4 @@ Just a set of notes of everything being taught in my current bachelor. It's also
 ### IFB103
 - [Week 1](./IFB103/Week%201/Week%201.pdf)
 
+![image](https://github.com/JushBJJ/Uni_Notes/assets/36951064/9a6e0b0c-2a51-4d0d-afb8-6c54f6e8e722)
