@@ -21,4 +21,5 @@ Just a set of notes of everything being taught in my current bachelor. It's also
 - [Week 1 (TODO)](./IFB105/Week%201/Week%201.pdf)
 - [Week 2 (TODO)](./IFB105/Week%202/Week%202.pdf)
 
-![alt text](image.png)
+![image](https://github.com/JushBJJ/Uni_Notes/assets/36951064/6c673f88-b3af-4681-9ed4-ce7db77d305e)
+
