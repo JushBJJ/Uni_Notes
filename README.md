@@ -7,19 +7,22 @@ Just a set of notes of everything being taught in my current bachelor. It's also
 ## Semester 1
 ### IFB102
 - [Week 2](./IFB102/Week%202/Week%202.pdf)
-- [Week 3 (TODO)](./IFB102/Week%203/Week%203.pdf)
+- [[IFB102/Week 3/Week 3.pdf|Week 3]]
+- [IFB102/Week 4/Week 4.pdf|Week 4]]
 
 ### IFB103
 - [Week 1](./IFB103/Week%201/Week%201.pdf)
 - [Week 2](./IFB103/Week%202/Week%202.pdf)
+- [[IFB103/Week 3/Week 3.pdf|Week 3]]
 
 ### IFB104
 - [Week 2](./IFB104/Week%202/Week%202.pdf)
 - [Week 3](./IFB104/Week%203/Week%203.pdf)
 
 ### IFB105 (TODO)
-- [Week 1 (TODO)](./IFB105/Week%201/Week%201.pdf)
-- [Week 2 (TODO)](./IFB105/Week%202/Week%202.pdf)
+- [[IFB105/Week 1/Week 1.pdf|Week 1]]
+- [[IFB105/Week 2/Week 2.pdf|Week 2]]
+- [[IFB105/Week 3/Week 3.pdf|Week 3]]
 
-![image](https://github.com/JushBJJ/Uni_Notes/assets/36951064/6c673f88-b3af-4681-9ed4-ce7db77d305e)
+![[Pasted image 20240318135906.png]]
 

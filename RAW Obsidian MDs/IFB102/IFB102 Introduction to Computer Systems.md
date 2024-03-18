@@ -1,2 +1,4 @@
-[[IFB102/Week 2 - How computers work/Week 2]]
-[[RAW Obsidian MDs/IFB102/Week 3/Week 3]]
+[[IFB102/Week 2/Week 2.pdf|Week 2]]
+[[IFB102/Week 3/Week 3.pdf|Week 3]]
+[[Week 4]]
+
