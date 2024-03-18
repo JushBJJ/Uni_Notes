@@ -14,12 +14,17 @@ Just a set of notes of everything being taught in my current bachelor. It's also
 - [Week 1](./IFB103/Week%201/Week%201.pdf)
 - [Week 2](./IFB103/Week%202/Week%202.pdf)
 - [Week 3](./IFB103/Week%203/Week%203.pdf)
+- Week 4 (TODO)
 
 ### IFB104
 - [Week 2](./IFB104/Week%202/Week%202.pdf)
 - [Week 3](./IFB104/Week%203/Week%203.pdf)
+- Week 4 (TODO)
 
-### IFB105 (TODO)
+### IFB105
 - [Week 1](./IFB105/Week%201/Week%201.pdf)
 - [Week 2](./IFB105/Week%202/Week%202.pdf)
 - [Week 3](./IFB105/Week%203/Week%203.pdf)
+- Week 4 (TODO)
+
+![image](https://github.com/JushBJJ/Uni_Notes/assets/36951064/d0b3da85-54be-4b30-8cd3-d3e038bbb948)
